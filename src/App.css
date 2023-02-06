@@ -11,8 +11,22 @@
   font-family: "Valencia";
 }
 
+.subtitle {
+  font-size: 2rem;
+  font-family: "AvenirRoman";
+}
+
 .reveal {
   animation: move-up 1s ease-out;
+}
+
+.reveal2 {
+  animation: move-up 1.5s ease-out;
+}
+
+.separator {
+  width: 100%;
+  height: 50vh;
 }
 
 @keyframes move-up {

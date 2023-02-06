@@ -1,9 +1,13 @@
-import Hero from './components/Hero';
 import './App.css';
+import Hero from './components/Hero';
+import Separator from './components/Separator';
 
 function App() {
   return (
-    <Hero />
+    <>
+      <Hero />
+      <Separator />
+    </>
   );
 }
 
