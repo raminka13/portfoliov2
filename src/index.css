@@ -1,13 +1,41 @@
+html,
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "AvenirLight";
+  src: url("./Assets/Fonts/Avenir/Avenir-Light-07.ttf");
+}
+
+@font-face {
+  font-family: "AvenirRoman";
+  src: url("./Assets/Fonts/Avenir/Avenir-Roman-12.ttf");
+}
+
+@font-face {
+  font-family: "AvenirBook";
+  src: url("./Assets/Fonts/Avenir/Avenir-Book-01.ttf");
+}
+
+@font-face {
+  font-family: "AvenirMedium";
+  src: url("./Assets/Fonts/Avenir/Avenir-Medium-09.ttf");
+}
+
+@font-face {
+  font-family: "AvenirHeavy";
+  src: url("./Assets/Fonts/Avenir/Avenir-Heavy-05.ttf");
+}
+
+@font-face {
+  font-family: "Valencia";
+  src: url("./Assets/Fonts/Valencia/Valencia.ttf");
 }
