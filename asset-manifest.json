@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//raminka13.github.io/portfoliov2/static/css/main.3c238227.css",
-    "main.js": "/https//raminka13.github.io/portfoliov2/static/js/main.da23f953.js",
+    "main.js": "/https//raminka13.github.io/portfoliov2/static/js/main.9c3d7af7.js",
     "static/js/787.e95905cd.chunk.js": "/https//raminka13.github.io/portfoliov2/static/js/787.e95905cd.chunk.js",
     "static/media/Avenir-Book-01.ttf": "/https//raminka13.github.io/portfoliov2/static/media/Avenir-Book-01.ab7aa26986df653dedc1.ttf",
     "static/media/Avenir-Medium-09.ttf": "/https//raminka13.github.io/portfoliov2/static/media/Avenir-Medium-09.90ba4d31a83ca40b27d8.ttf",
@@ -11,11 +11,11 @@
     "static/media/Valencia.ttf": "/https//raminka13.github.io/portfoliov2/static/media/Valencia.982aa30178d00befd6f0.ttf",
     "index.html": "/https//raminka13.github.io/portfoliov2/index.html",
     "main.3c238227.css.map": "/https//raminka13.github.io/portfoliov2/static/css/main.3c238227.css.map",
-    "main.da23f953.js.map": "/https//raminka13.github.io/portfoliov2/static/js/main.da23f953.js.map",
+    "main.9c3d7af7.js.map": "/https//raminka13.github.io/portfoliov2/static/js/main.9c3d7af7.js.map",
     "787.e95905cd.chunk.js.map": "/https//raminka13.github.io/portfoliov2/static/js/787.e95905cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c238227.css",
-    "static/js/main.da23f953.js"
+    "static/js/main.9c3d7af7.js"
   ]
 }
